@@ -1,5 +1,5 @@
 {
-  "name": "create-react-from-scratch",
+  "name": "@designaroni/create-react-from-scratch",
   "version": "1.0.0",
   "description": "a react site from scratch",
   "keywords": [
@@ -13,16 +13,14 @@
     "example"
   ],
   "homepage": "https://designaroni.com/react-from-scratch",
-  "bugs": "https://github.com/designaroni/react-from-scratch/issues",
+  "bugs": {
+    "url": "https://github.com/designaroni/react-from-scratch/issues"
+  },
   "repository": {
     "type": "git",
-    "url": "https://github.com/designaroni/react-from-scratch.git"
+    "url": "git+https://github.com/designaroni/react-from-scratch.git"
   },
-  "author": {
-    "name": "Ian Roberts",
-    "email": "ian.roberts@designaroni+npm.com",
-    "url": "https://designaroni.com"
-  },
+  "author": "Ian Roberts <ian.roberts@designaroni+npm.com> (https://designaroni.com)",
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server --mode development"
@@ -48,5 +46,6 @@
     "webpack": "^4.44.0",
     "webpack-cli": "^3.3.12",
     "webpack-dev-server": "^3.11.0"
-  }
+  },
+  "devDependencies": {}
 }
