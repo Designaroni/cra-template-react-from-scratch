@@ -1,0 +1,10 @@
+{
+  "name": "cra-template-react-from-scratch",
+  "version": "1.0.0",
+  "description": "Create React App Template based on @Designaroni/react-from-scratch",
+  "main": "index.js",
+  "repository": "git@github.com:Designaroni/cra-template-react-from-scratch.git",
+  "author": "Ian Roberts <ian.roberts+npm@designaroni.com>",
+  "license": "MIT",
+  "private": true
+}
